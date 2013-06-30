@@ -1,4 +1,4 @@
-FunSCripts
+FunScripts
 ======
 
 #### Dscription
