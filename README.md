@@ -1,6 +1,7 @@
-pyruba
+FunSCripts
 ======
 
-#### Rogue Aruba Python Script Library
-Coming soon.
+#### Dscription
+This is just a collection of scripts.
+
 
